@@ -11,7 +11,7 @@ Op deze website vind je links naar de opdrachten voor het vak Mobile Development
 
 ---
 
-[Lees hier hoe je vervolgens de opdrachten maakt en inlevert](opdracht){: .btn .btn-green }
+[Lees hier hoe je vervolgens de opdrachten maakt en inlevert](opdracht){: .btn .btn-blue }
 
 ---
 
@@ -23,11 +23,11 @@ Op deze website vind je links naar de opdrachten voor het vak Mobile Development
 
 {% if lesson_date <= today or site.settings.skip_date_check%}
 ## Les {{ lesson.number }}:  {{ lesson.title }}
-{: .text-blue-100 :}
+{: .text-purple-100 :}
 
 {{ lesson.description }}
 
-[Start](les-{{ lesson.number }} ){: .btn .btn-blue }
+[Start](les-{{ lesson.number }} ){: .btn .btn-purple }
 {% else %}
 ## Les {{ lesson.number }}:  {{ lesson.title }}
 {: .text-grey-dk-000 :}
