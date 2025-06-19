@@ -3,17 +3,18 @@
 
 // Override colors
 $sidebar-color: #6b2db8;          // Deep purple
-$sidebar-text-color: #ffffff;     // White text in sidebar
+$sidebar-text-color: #fdfcff;     // White text in sidebar
 $nav-child-link-color: #d9d9ff;   // Light purple for child navs
 
-// Optional gradients if you use them in sidebar styling
-$sidebar-gr1: rgba(107, 45, 184, 0);
-$sidebar-gr2: rgba(79, 32, 143, 0.8);
-$sidebar-gr3: rgb(205, 195, 230);
-
 // Optional: tweak link color for contrast with purple
-$link-color: #eee6f9;             // Light lavender link
+$link-color: #aa77ff;             // Light lavender link
 $btn-primary-color: #aa77ff;
 
 // Tweak feedback or highlight tones to match
 $feedback-color: darken($sidebar-color, 5%);
+
+.nav-list-item{
+    a{
+        color: #fdfcff !important;
+    }
+}

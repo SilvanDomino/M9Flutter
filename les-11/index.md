@@ -1,5 +1,5 @@
 ---
-title: Les 11 - Extra Oefenen
+title: Les 11 - Oefenen - Pokemon
 has_toc: false
 nav_order: 11
 ---
