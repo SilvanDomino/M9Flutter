@@ -5,3 +5,19 @@ nav_order: 2
 ---
 
 # Dart
+
+## Variabelen
+Dart is een *static typed* programmeertaal. Dat betekent dat elke variabel een **type** heeft.
+```dart
+    int age = 35;
+```
+
+
+| Naam | Voorbeeld | Uitleg
+| ---- | ----------- | ------- |
+| integer  | `int leeftijd = 35;`    | Gehele getallen. Dit zijn getallen (positief of negatief) zonder een cijfer achter de komma (of punt). |
+| String | `String naam = "Silvan"`     | Dit zijn lijsten van characters/tekens. Denk bijvoorbeeld aan woorden of zinnen. |
+| boolean    | `bool isDocent = true`    | Booleans zijn true of false. Dit kan je eventueel ook binair weergeven |
+| double | `double pi = 3.1` | Een double is een getal met een cijfer achter de komma. Lijkt op een float, maar is fundamenteel anders. Juda Hensen en Jelle Sjollema (en ChatGPT) kunnen dit uitleggen. |
+
+## Functies
