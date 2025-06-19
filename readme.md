@@ -21,6 +21,7 @@
         * Camera
         * GPS
         * Sensoren zoals accelerometer of gyroscoop
+    * Sara (Eind) Opdracht
 * Week 7: Eindopdracht
 * Week 8: 
     * Eindopdracht
