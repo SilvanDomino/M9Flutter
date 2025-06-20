@@ -1,0 +1,20 @@
+//Week 1
+## Variabelen
+
+## Objecten
+
+## If statements en loops
+
+## Arrays en lists
+
+## Null safety
+
+## Quiz applicatie
+
+
+Week 4 (Les 7)
+## Classes en inheritance
+
+## Async en fetch
+
+## Null safety
