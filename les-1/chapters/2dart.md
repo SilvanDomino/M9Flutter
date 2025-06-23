@@ -37,3 +37,6 @@ We maken hier een variabele genaamd `age` aan, en geven deze de waarde van 35. W
 ## Null safety
 
 ## Quiz applicatie
+
+
+[Volgend hoofdstuk: CLI Quiz](3quiz)
