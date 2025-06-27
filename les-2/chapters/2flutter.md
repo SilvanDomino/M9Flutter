@@ -19,6 +19,7 @@ void main() {
 
 Dit is het startpunt van onze applicatie. We zeggen hier tegen Dart, ik wil dat je de applicatie gaat opstarten. 
 
+
 ---
 ---
 
@@ -103,12 +104,17 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ```
 
-Hier gebeurt een heleboel. Maar vooral de functie `Widget build(Buildcontext context)` is interessant. In de **build** functie wordt hetgene dat gerendert wordt gebouwt. We bouwen een widget die door flutter getekent wordt.
+Hier gebeurt een heleboel. De counter is vanzelfsprekend. Maar vooral de functie `Widget build(Buildcontext context)` is interessant. In de **build** functie wordt hetgene dat gerendert wordt gebouwt. We bouwen een widget die door flutter getekent wordt.
 
 ![](./../images/fluter_app.png)
 
 ## Scaffold
 De scaffold (ookwel *steiger*) is een goed begin voor het begin van een applicatie. Dit is een widget met 3 eigenschappen die gelijk gebruikt worden:
 * Appbar
+  De bar boven in de app. Ideaal voor titels of knoppen ofzo. 
 * Body
-* floatingActionButton
+  Het hoofdgedeelte van de applicatie.
+* FloatingActionButton
+  Een extra popup knop.
+
+[Volgend hoofdstuk: Onze eigen widgets](3widgets)

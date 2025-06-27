@@ -7,6 +7,7 @@
 
 {: .text-green-200 .fs-7 }
 
+
 ![Cover image](cover.png)
 
 {{ lesson.description }}
