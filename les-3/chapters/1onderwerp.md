@@ -1,6 +1,6 @@
 ---
 parent: Les 3 - Layouts en Widgets
-title: Project aanmaken
+title: Project opstarten
 nav_order: 1
 ---
 
@@ -64,6 +64,6 @@ class MyHomePage extends StatelessWidget {
 }
 ```
 
-## About Me Widget
+Run dit flutter project. Als het goed is zie je een lege scaffolding.
 
 [Volgend hoofdstuk: React project aanmaken](2dart)

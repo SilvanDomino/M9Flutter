@@ -117,4 +117,4 @@ De scaffold (ookwel *steiger*) is een goed begin voor het begin van een applicat
 * FloatingActionButton
   Een extra popup knop.
 
-[Volgend hoofdstuk: Onze eigen widgets](3widgets)
+[Volgend hoofdstuk: Flutter documentatie](3documentatie)

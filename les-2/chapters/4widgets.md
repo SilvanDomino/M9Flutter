@@ -1,7 +1,7 @@
 ---
 parent: Les 2 - Eerste Flutter project
 title: Widgets
-nav_order: 3
+nav_order: 4
 ---
 
 # Widget
@@ -113,6 +113,8 @@ Met de tweede kunnen we een verschillende soort groen gebruiken.
 
 ## Box
 Om een mooie box te maken maken we gebruik van een *Container*.
+<iframe width="600" height="400" src="http://www.youtube.com/embed/c1xLMaTUWCY" frameborder="0"></iframe>
+
 ```dart
   body:Center(          //we centreren de inhoud van de body
     child: Container(   //Daar komt een container
