@@ -85,4 +85,5 @@ let teacher = {name: "Silvan", age:35}
 
 ## Null safety
 
-## Quiz applicatie
+
+[Volgend hoofdstuk: CLI Quiz](3quiz)
