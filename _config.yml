@@ -21,10 +21,10 @@
 title: M9 Mobile Development
 description: Welkom bij de lessenreeks voor de M9 Mobile Development lessen.
 
-# baseurl: "/m9flutter" 
+# baseurl: "/M9Flutter" 
 # url: "https://mediacollege.dev"
 
-baseurl: "/m9flutter" 
+baseurl: "/M9Flutter" 
 url: "https://silvandomino.github.io/"
 
 # baseurl: "/_site" 
