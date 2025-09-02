@@ -27,14 +27,45 @@ We maken hier een variabele genaamd `age` aan, en geven deze de waarde van 35. W
 ### 
 
 ## Functies
+In Dart hebben functies dezelfde syntax als in de op C gebaseerde talen. C++, C#, Java en een heleboel andere talen hebben deze syntax.
+
+```dart
+int getRandomNumber(){
+    return 4;
+}
+```
+Als eerst wordt verteld wat voor datatype de functie terug geeft. Daarna komt de naam van de functie en uiteindelijk de argumenten. 
+
+```dart
+void main(){
+    //code here
+}
+```
+Deze functie returned een void. Dat wil zeggen dat de functie niks terug geeft.
 
 ## Objecten
+In javascript hebben we de volgende objecten:
+```js
+let docent = {name: "Silvan", age: 35}
+```
+Dit heb je in Dart niet. Objecten in dart gaan we in een latere les behandelen.
 
-## If statements en loops
+## If statements
+Zelfde als JS en PHP.
+
+## Loops
+Zelfde als JS en PHP, alleen dan met datatype.
 
 ## Arrays en lists
+In Dart bestaan er geen arrays. Er wordt specifiek gebruik gemaakt van **Lists**.
+```js
+let numbers = [1, 2, 56, 9.0, "negentien"];
+```
+Dit is een array in javascript waar onder andere ook getallen in staan.
 
-## Null safety
-
+```dart
+List<int> numbers = [1, 5, 0, 34];
+```
+We maken een List aan, en in deze list passen alleen *integers*. 
 
 [Volgend hoofdstuk: CLI Quiz](3quiz)

@@ -21,3 +21,4 @@ class AboutMe extends StatelessWidget {
         child: Text("About Me!")
     );
 ```
+Zet deze widget maar in de column in `main.dart`.
