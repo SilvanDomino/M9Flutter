@@ -24,8 +24,8 @@ description: Welkom bij de lessenreeks voor de M9 Mobile Development lessen.
 # baseurl: "/M8-PROG-React" 
 # url: "https://mediacollege.dev"
 
-baseurl: "/M9_Flutter" 
-url: "https://silvanDomino.github.io"
+baseurl: "/m9flutter" 
+url: "https://mediacollege.dev"
 
 # baseurl: "/_site" 
 # url: "http://127.0.0.1:5500"
@@ -34,7 +34,7 @@ github_username:  SilvanDomino
 email: s.herrema@ma-web.nl
 
 # Build settings
-# remote_theme: "pmarsceill/just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
 theme: just-the-docs
 color_scheme: m9flutter
 
