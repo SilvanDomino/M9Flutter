@@ -1,0 +1,7 @@
+number,datum,title,description
+1,2025-09-01,"Dart en Flutter project aanmaken","Je leert de basis van de programmeertaal Dart. Denk aan variabelen, functies, control flow en classes."
+2,2025-09-01,"Layouts en widgets (Material UI)","Je installeert Flutter, maakt een eerste project aan en leert hoe je de app draait op emulator of device."
+3,2025-09-08,"Widgets en documentatie","Je leert over Flutter widgets zoals Text, Container, Row, Column en gebruikt Material UI componenten."
+4,2025-09-08,"Dart deel 2","Je verdiept je in objectgeoriënteerd programmeren, data modelleren en gebruik van classes."
+5,2025-09-15,"API's en asynchroon","Je haalt externe data op met http en leert werken met async/await en Futures. Je gaat een pokedex maken."
+6,2025-09-15,"Sara Opdrachten","Je gaat werken aan een echte casus"

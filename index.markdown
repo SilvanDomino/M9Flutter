@@ -18,6 +18,13 @@ Op deze website vind je links naar de opdrachten voor het vak Mobile Development
 ## Lessen & Opdrachten
 
 {% for lesson in site.data.lessons %}
+
+{% assign mod_index = forloop.index0 | modulo: 2 %}
+{% assign week = forloop.index | divided_by: 2 %}
+{% if mod_index == 0 %}
+<h2> Week {{week | plus: 1}}</h2>
+{% endif %}
+
 {% assign today = "now"|date:"%Y%m%d" %}
 {% assign lesson_date = lesson.datum|date:"%Y%m%d" %}
 
@@ -34,6 +41,9 @@ Op deze website vind je links naar de opdrachten voor het vak Mobile Development
 
 Deze les komt binnenkort online.
 {% endif %}
+
+{% if mod_index == 1 %}
 ---
+{% endif %}
 
 {% endfor %}
