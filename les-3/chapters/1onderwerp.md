@@ -57,7 +57,7 @@ class MyHomePage extends StatelessWidget {
                 title: Text(title),
             ),
             body: Center(
-                child: Column(children: [])
+                child: Column(children: [Text("asdf")])
             ),
         );
     }
