@@ -1,10 +1,13 @@
 ---
 parent: Les 4 - Stateful Widgets
-title: Project aanmaken
+title: Stateless Widgets
 nav_order: 1
 ---
 
-## Flutter project aanmaken
-Native app vs non-native app idk
+# Stateless Widgets
+Wanneer je een eigen widgets maakt, zijn er twee verschillende soorten widgets die je kan gebruiken. 
+
+* Stateless Widgets
+* Stateful Widgets
 
 [Volgend hoofdstuk: React project aanmaken](2dart)
