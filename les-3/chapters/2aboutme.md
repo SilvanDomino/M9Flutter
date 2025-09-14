@@ -46,3 +46,10 @@ De `Image` widget gebruiken we voor afbeeldingen. De Image kunnen we op verschil
 ### Stap 2c: Text
 De text widgets staan boven elkaar. Probeer zelf uit te zoeken hoe je de twee teksten onder elkaar krijgt, maar *naast* de afbeelding. 
 *tip: Gebruik de eerder gemaakte `Row`
+
+## Stap 3: Stylen
+Als het goed is heb je nu een layout vergelijkbaar met deze
+
+![](../images/aboutme.png)
+
+Links een afbeelding. Daarnaast twee text widgets onder elkaar.
