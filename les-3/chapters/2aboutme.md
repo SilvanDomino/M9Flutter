@@ -45,11 +45,40 @@ De `Image` widget gebruiken we voor afbeeldingen. De Image kunnen we op verschil
 
 ### Stap 2c: Text
 De text widgets staan boven elkaar. Probeer zelf uit te zoeken hoe je de twee teksten onder elkaar krijgt, maar *naast* de afbeelding. 
-*tip: Gebruik de eerder gemaakte `Row`
+*tip: Gebruik de eerder gemaakte `Row`.
 
-## Stap 3: Stylen
-Als het goed is heb je nu een layout vergelijkbaar met deze
+## Stap 3: Styling
+Met het **padding** widget kan je padding geven aan jouw elementen.
+```dart
+child: Padding(
+  padding: EdgeInsets.all(16.0),
+  child: Text("Hello world")
+)
+```
 
-![](../images/aboutme.png)
+Met **expanded** geef je aan hoeveel ruimte van de column of row een element mag nemen. Dit werkt hetzelfde als het 'flex' eigenschap van een flexbox of de *fr* waarde in een grid template.
 
-Links een afbeelding. Daarnaast twee text widgets onder elkaar.
+```dart
+child: Column(
+  children:[
+    Expanded(
+      flex: 1,
+      child: Text("Hello")
+    ),
+    Expanded(
+      flex: 2,
+      child: Text("Hello")
+    ),
+    Expanded(
+      flex: 1,
+      child: Text("Hello")
+    )
+  ]
+)
+```
+
+### Opdracht: Stylen
+Ga jouw `AboutMe` component stylen.
+---
+## Einde les 2
+Dit is het einde van les 2. Volgende week aan de slag met Layout en verder met Widgets en gaan we onze `AboutMe` widget maken.
