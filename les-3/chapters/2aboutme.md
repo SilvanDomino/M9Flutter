@@ -79,6 +79,7 @@ child: Column(
 
 ### Opdracht: Stylen
 Ga jouw `AboutMe` component stylen.
+
 ---
-## Einde les 2
-Dit is het einde van les 2. Volgende week aan de slag met Layout en verder met Widgets en gaan we onze `AboutMe` widget maken.
+
+[Volgend hoofdstuk: Parameters](3parameters)

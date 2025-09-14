@@ -9,9 +9,6 @@ has_toc: false
 
 Op deze website vind je links naar de opdrachten voor het vak Mobile Development in de module M9 Preflight.
 
----
-
-[Lees hier hoe je vervolgens de opdrachten maakt en inlevert](opdracht){: .btn .btn-blue }
 
 ---
 
