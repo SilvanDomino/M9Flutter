@@ -2,6 +2,7 @@ number,datum,title,description
 1,2025-09-01,"Dart","Je leert de basis van de programmeertaal Dart. Denk aan variabelen, functies, control flow en classes."
 2,2025-09-01,"Flutter project aanmaken","Je installeert Flutter, maakt een eerste project aan en leert hoe je de app draait op emulator of device."
 3,2025-09-08,"Layouts en widgets (Material UI)","Je leert over Flutter widgets zoals Text, Container, Row, Column en gebruikt Material UI componenten."
+4,2025-09-08,"Widgets","Je gaat in kleine groepjes onderzoek doen en presenteren van een widget"
 5,2025-09-08,"Stateful Widgets","Je leert het verschil tussen Stateless en Stateful widgets en maakt interactieve elementen."
 6,2025-09-15,"Navigatie en routes","Je leert navigeren tussen verschillende schermen met Navigator en routes."
 7,2025-09-22,"Complexere Dart code","Je verdiept je in objectgeoriënteerd programmeren, data modelleren en gebruik van classes."
