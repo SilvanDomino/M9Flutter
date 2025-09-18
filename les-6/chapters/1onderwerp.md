@@ -1,5 +1,5 @@
 ---
-parent: Les 4 - Stateful Widgets
+parent: Les 5 - Stateful Widgets
 title: Stateful Widgets
 nav_order: 1
 ---
@@ -68,5 +68,8 @@ De statefull widget bestaat uit 2 delen:
 
 Alleen Flutter is een beetje raar, de state heeft de build functie.
 Verder lijkt de flutter state erg op de react state. SetState zorgt voor een rebuild. 
+
+## Set State
+Set state zorgt ervoor dat flutter de widget opnieuw gaat bouwen, met de (nieuwe) informatie. 
 
 [Volgend hoofdstuk: React project aanmaken](2opdracht)

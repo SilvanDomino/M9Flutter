@@ -1,5 +1,5 @@
 ---
-parent: Les 4 - Stateful Widgets
+parent: Les 5 - Stateful Widgets
 title: Stateful Widget opdracht
 nav_order: 2
 ---
@@ -11,7 +11,7 @@ Maak een cookie clicker Widget.
 * 1 cookie om te klikken.
 * 2 verschillende upgrades (Grandma's en factories bijvoorbeeld)
 * Zorg voor een mooie opmaak en styling
-* Zet de cookieclicker in dezelfde app als de about me.
+* Zet de cookieclicker in dezelfde app als de AboutMe en de Top10.
 
 ---
 

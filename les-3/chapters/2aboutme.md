@@ -82,4 +82,5 @@ Ga jouw `AboutMe` component stylen.
 
 ---
 
-[Volgend hoofdstuk: Parameters](3parameters)
+## Einde les 3
+Dit is het einde van les 3. Volgende les aan de slag met arguments, ListView widget en het bouwen van een Top10 Widget.
