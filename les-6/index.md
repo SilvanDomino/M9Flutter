@@ -1,7 +1,7 @@
 ---
-title: Les 5 - Stateful Widgets
+title: Les 6 - Stateful Widgets
 has_toc: false
-nav_order: 4
+nav_order: 6
 ---
 
 {% include classroom-assignment.md les="5" %}
