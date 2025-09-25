@@ -1,7 +1,7 @@
 ---
 parent: Les 7 - Dart
 title: Lists en Maps
-nav_order: 1
+nav_order: 2
 ---
 
 # Lists en Maps
@@ -17,11 +17,10 @@ var mixedList = ['Blink 182', 182, true]; // dit wordt gelezen als List<Object>
 Of als we onze eigen classes gaan gebruiken:
 ```dart
 class Car{
-    constructor(brand, color, mileage){
-        this.brand = brand;
-        this.color = color;
-        this.mileage = mileage;
-    }
+    String manufacturer;
+    Color color;
+    int milage;
+    Car(this.manufacturer, this.color, this.milage);
 }
 List<Car> cars = [Car("Honda", "red", 100), Car("Seat", "Orange", 2000), Car("Kia", "blue", 2321)];
 ```

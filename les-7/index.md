@@ -1,5 +1,5 @@
 ---
-title: Les 7 - Dart Code
+title: Les 7 - Dart
 has_toc: false
 nav_order: 7
 ---
