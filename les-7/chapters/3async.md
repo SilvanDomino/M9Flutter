@@ -63,3 +63,19 @@ void main() {
   });
 }
 ```
+
+Maar je kan `then` ook niet gebruiken als je van leesbaardere code houdt. Daar gebruik je het await keyword voor om de gereturnde waarde op te wachten.
+
+```dart
+Future<int> DelayedInteger() async {
+  await Future.delayed(Duration(seconds: 2));
+  return Random().nextInt(255);
+}
+
+void main() async{
+  int returnedVal = await DelayedInteger()
+  print(returnedVal);
+}
+
+```
+[Volgend hoofdstuk: HTTP request maken](4http)

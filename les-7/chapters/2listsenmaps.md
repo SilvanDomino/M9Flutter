@@ -81,3 +81,7 @@ Map<String, dynamic> user = {
   'isInstructor': true,
 };
 ```
+
+---
+
+[Volgend hoofdstuk: Asynchroon programmeren](3async)
